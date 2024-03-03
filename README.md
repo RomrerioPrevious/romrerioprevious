@@ -21,7 +21,7 @@ My main project is [GBread]("https://github.com/RomrerioPrevious/GBread"), a com
 [<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="maven" width="40" height="40"/>]("https://maven.apache.org/")
 [<img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="lombok" width="40" height="40"/>]("https://projectlombok.org/")
 [<img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="flusk" width="40" height="40"/>]("https://github.com/pallets/flask")
-[<img src="  https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" width="40" height="40"/>]("https://docs.pytest.org/en/8.0.x/")
+[<img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" width="40" height="40"/>]("https://docs.pytest.org/en/8.0.x/")
 [<img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" width="40" height="40"/>]("https://www.gnu.org/software/bash/manual/bash.html")
 [<img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="ubuntu" width="40" height="40"/>]("https://ubuntu.com/")
 [<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="40" height="40"/>]("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
