@@ -38,7 +38,7 @@ My main project is [GBread]("https://github.com/RomrerioPrevious/GBread"), a com
 <details>
   <summary>You can find me on</summary>
 
-[![KWork](https://img.shields.io/badge/-KWork-black?style=for-the-badge)](https://kwork.ru/user/_john_)
+[![KWork](https://img.shields.io/badge/-KWork-black?style=for-the-badge)](https://kwork.ru/user/romrerio)
 
 </details>
 
