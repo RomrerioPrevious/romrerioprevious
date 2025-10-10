@@ -2,7 +2,7 @@
 
 ## I'm Romrerio
 
-📖 The schoolboy, which is programmer.
+📖 The student, which is programmer.
 
 ## I'm system and web developer
 
