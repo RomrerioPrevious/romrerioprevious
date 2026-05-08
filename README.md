@@ -27,16 +27,16 @@ My main project is [GBread]("https://github.com/RomrerioPrevious/GBread"), a com
   <tr><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="40" height="40"/></a></tr>
   <tr><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="40" height="40"/></a></tr>
 <tr>
-<table>
+</table>
 
 
 ### 🔜 And in the future
 
-<p align="left" display="flex"> 
+<table>
 <tr><a href="https://github.com/rust-lang/rust"><img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="rust" width="40" height="40"/></a>
 <tr><a href="https://www.docker.com/"><img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="40" height="40"/></a></tr>
 <tr><a href="https://github.com/kubernetes/kubernetes"><img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="kubernetes" width="40" height="40"/></a></tr></p>
-
+</table>
 ---
 
 <details>
